@@ -20,7 +20,13 @@
     "html5"
   ],
   "author": "JeonghyunYoo",
-  "license": "ISC",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "engines": {
+    "node": "6.10.1"
+  },
   "bugs": {
     "url": "https://github.com/yoojh9/html5_phaser_game_test/issues"
   },
