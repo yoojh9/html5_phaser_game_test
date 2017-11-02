@@ -1,0 +1,28 @@
+{
+  "name": "html5-phaser-test",
+  "version": "1.0.0",
+  "description": "phaser를 사용한 html5 게임 테스트",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoojh9/html5_phaser_game_test.git"
+  },
+  "keywords": [
+    "phaser",
+    "html5"
+  ],
+  "author": "JeonghyunYoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoojh9/html5_phaser_game_test/issues"
+  },
+  "homepage": "https://github.com/yoojh9/html5_phaser_game_test#readme"
+}
