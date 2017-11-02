@@ -14,5 +14,5 @@ app.use(function(req, res, next) {
 console.log("Starting server in: " + __dirname + '/');
 app.use(express.static(__dirname + '/'));
 app.listen(port, function() { 
-    console.log("Server running at: http://localhost:" + port)
+    console.log("Server running at " + port)
 });
